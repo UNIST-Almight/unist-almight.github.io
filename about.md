@@ -44,3 +44,23 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 트랙제의 경우 1트랙 혹은 2트랙이 컴퓨터공학과 이여야만 합니다.
 
 ## 회원 목록
+
+### 1기
+
+[queued_q](https://www.acmicpc.net/user/queued_q)
+
+[gracelee](https://www.acmicpc.net/user/gracelee)
+
+[kts0921](https://www.acmicpc.net/user/kts0921)
+
+[jsy01311](https://www.acmicpc.net/user/jsy01311)
+
+[flame623](https://www.acmicpc.net/user/flame623)
+
+[wbjeon2k](https://www.acmicpc.net/user/wbjeon2k)
+
+[firebird](https://www.acmicpc.net/user/firebird)
+
+[mskim17](https://www.acmicpc.net/user/mskim17)
+
+[raonmire](https://www.acmicpc.net/user/raonmire)
