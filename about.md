@@ -63,6 +63,6 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 
 [mskim17](https://www.acmicpc.net/user/mskim17)
 
-[raonmire](https://www.acmicpc.net/user/raonmire명
+[raonmire](https://www.acmicpc.net/user/raonmire)
 
 외 19명
