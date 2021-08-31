@@ -45,7 +45,7 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 
 ## 회원 목록
 
-### 1기 28명
+### 1기 29명
 
 [queued_q](https://www.acmicpc.net/user/queued_q)
 
