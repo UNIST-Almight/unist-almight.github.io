@@ -67,4 +67,6 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 
 [nukec](https://www.acmicpc.net/user/nukec)
 
+[bleaveme](https://www.acmicpc.net/user/bleaveme)
+
 외 19명
