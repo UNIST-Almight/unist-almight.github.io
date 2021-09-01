@@ -47,26 +47,16 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 
 ### 1기 29명
 
-[queued_q](https://www.acmicpc.net/user/queued_q)
-
-[gracelee](https://www.acmicpc.net/user/gracelee)
-
-[kts0921](https://www.acmicpc.net/user/kts0921)
-
-[jsy01311](https://www.acmicpc.net/user/jsy01311)
-
-[flame623](https://www.acmicpc.net/user/flame623)
-
-[wbjeon2k](https://www.acmicpc.net/user/wbjeon2k)
-
-[firebird](https://www.acmicpc.net/user/firebird)
-
-[mskim17](https://www.acmicpc.net/user/mskim17)
-
-[raonmire](https://www.acmicpc.net/user/raonmire)
-
-[nukec](https://www.acmicpc.net/user/nukec)
-
-[bleaveme](https://www.acmicpc.net/user/bleaveme)
+[queued_q](https://www.acmicpc.net/user/queued_q), 
+[gracelee](https://www.acmicpc.net/user/gracelee), 
+[kts0921](https://www.acmicpc.net/user/kts0921), 
+[jsy01311](https://www.acmicpc.net/user/jsy01311), 
+[flame623](https://www.acmicpc.net/user/flame623), 
+[wbjeon2k](https://www.acmicpc.net/user/wbjeon2k), 
+[firebird](https://www.acmicpc.net/user/firebird), 
+[mskim17](https://www.acmicpc.net/user/mskim17), 
+[raonmire](https://www.acmicpc.net/user/raonmire), 
+[nukec](https://www.acmicpc.net/user/nukec), 
+[bleaveme](https://www.acmicpc.net/user/bleaveme), 
 
 외 19명
