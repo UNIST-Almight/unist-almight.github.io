@@ -5,6 +5,8 @@ title: "MIT OCW 알고리즘 강의 추천"
 author: wbjeon2k
 ---
 
+**author**: [wbjeon2k](https://wbjeon2k.github.io/) 
+
 ## MIT OCW 알고리즘 강의 추천
 
 [MIT Open Courseware](https://ocw.mit.edu/) (이하 MIT OCW) 는 Cousera와 Edx 보다도 더 오래된, 1세대 MOOC 사이트 입니다.  
@@ -114,5 +116,5 @@ PS 자료들은 어떤 알고리즘을 소개하고 바로 문제 해결을 위�
 ps. 1주차 코드리뷰를 진행하다가 생각이 나서 적어봤습니다.  
 앞으로도 Almight 블로그에 글이 많이 올라왔으면 좋겠습니다!
 
-**author**: [wbjeon2k](https://wbjeon2k.github.io/) 
+
 
