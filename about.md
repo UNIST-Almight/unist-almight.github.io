@@ -31,6 +31,8 @@ UNIST 컴퓨터공학과에서 열리는 프로그래밍 경진대회 Uni-CODE�
 
 # 주요 성과
 
+[성과 페이지]({% post_url 2021-09-13-Competition-Result %})
+
 개인 참여 대회: Google Code Jam, SCPC
 
 단체 참여 대회: UCPC
