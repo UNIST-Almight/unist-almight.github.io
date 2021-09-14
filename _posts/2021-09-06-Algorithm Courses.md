@@ -18,6 +18,12 @@ MIT OCW 에 있는 알고리즘 강의들이 어떤 것들이 있는지 소개�
 
 ### MIT 알고리즘 강의 구성
 
+**20210914 UPD**  
+[6.006 2020S YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) 수업이 업데이트 되었습니다. *이전 [6.006](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) 은 2015년 버전 이었습니다.*  
+2020년 버전은 2015년 버전 보다 **Hashing 부분을 대폭 생략했고, 전체적인 난이도가 대폭 하향 되었습니다.**  
+난이도와 범위 면에서 모두 다운그레이드 되어서 조금 더 개론에 가깝게 바뀌었고, DP 부분에서 새로운 예제들을 다룹니다.  
+전체적으로는 여전히 2015년 버전이 더 알차다고 생각합니다. 참고 바랍니다. 
+
 **소개 드리는 강의들은 모두 YouTube에 녹화 강의 + 재생 목록이 있습니다!**  
 [6.006](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), [6.046j](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) 참조 바랍니다.  
 
