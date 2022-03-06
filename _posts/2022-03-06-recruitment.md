@@ -2,7 +2,7 @@
 tags: recruitment
 date: 2022-03-06 12:00 +0900
 title: "2022 Almight 신규 회원 (2기) 모집"
-categories: ps almight
+categories: almight
 <!--author: queuedq-->
 ---
 
