@@ -6,6 +6,10 @@ categories: almight
 <!--author: queuedq-->
 ---
 
+**지원 기간이 3월 9일 수요일에서 3월 11일 금요일 오후 4시까지로 연장되었습니다. 이 점 참고 바랍니다.**
+
+---
+
 **UNIST 알고리즘 동아리 Almight에서 2기 모집을 시작했습니다!**
 
 - 지원 링크: [https://forms.gle/xsifoDH4pEwxdpU88](https://forms.gle/xsifoDH4pEwxdpU88)
@@ -27,7 +31,7 @@ categories: almight
     - (공통) C++ 또는 Python 프로그래밍에 익숙한 사람
     - UNIST 컴퓨터공학과 주전공 또는 부전공 (구학제 기준 1, 2트랙)중에 있는 학생
     - UNIST 신입생 및 타 학과 학생 (컴퓨터공학과 학생에 비해 적은 수 선발 예정)
-- **지원 기간:** 3월 9일 수요일 오후 11시까지
+- **지원 기간**: 3월 11일 금요일 오후 4시까지 (연장됨)
 - **지원 링크:** [https://forms.gle/xsifoDH4pEwxdpU88](https://forms.gle/xsifoDH4pEwxdpU88)
 
 궁금한 점이 있으시다면 QnA 오픈톡방에서 자유롭게 질문하실 수 있습니다!
