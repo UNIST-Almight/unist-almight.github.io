@@ -3,7 +3,7 @@ tags: contest
 date: 2022-03-20 12:00 +0900
 title: "2022 Google Code Jam Kickstart!"
 categories: almight
-<!--author: wbjeon2k-->
+author: wbjeon2k
 ---
 
 **Google Kick Start 가 열립니다!**

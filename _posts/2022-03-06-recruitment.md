@@ -3,7 +3,7 @@ tags: recruitment
 date: 2022-03-06 12:00 +0900
 title: "2022 Almight 신규 회원 (2기) 모집"
 categories: almight
-<!--author: queuedq-->
+author: queuedq
 ---
 
 **지원 기간이 3월 9일 수요일에서 3월 11일 금요일 오후 4시까지로 연장되었습니다. 이 점 참고 바랍니다.**
