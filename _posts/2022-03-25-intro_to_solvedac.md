@@ -80,13 +80,19 @@ solved.ac 검색 창은 검색연산자 기능을 지원합니다.
 전부 소개하기엔 꽤나 어려운(*귀찮은?*) 기능이기에, 감을 잡을 수 있는 예시를 몇 개 남깁니다.  
 
 BFS 태그가 달린 문제들 중 난이도가 골드5 ~ 플래티넘1 이면서 wbjeon2k 가 해결하지 않은 문제들:  
-> tag:bfs tier:g5..p1 -solved_by:wbjeon2k
+```
+tag:bfs tier:g5..p1 -solved_by:wbjeon2k
+```
 
 DP 태그와 BFS 태그가 **같이(AND)** 달린 문제들
-> tag:bfs & tag:dp
+```
+tag:bfs & tag:dp
+```
 
 DP 태그 **또는(OR)** BFS 태그가 달린 문제들
-> tag:bfs | tag:dp
+```
+tag:bfs | tag:dp
+```
 
 자세한 내용은 [검색](https://solved.ac/search) 탭에 있습니다.  
 
