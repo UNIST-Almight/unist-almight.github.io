@@ -31,7 +31,7 @@ UNIST 컴퓨터공학과에서 열리는 프로그래밍 경진대회 Uni-CODE�
 
 # 주요 성과
 
-[성과 페이지]({% post_url 2021-09-13-Competition-Result %})
+[2021년 성과 페이지]({% post_url 2021-09-13-Competition-Result %})
 
 개인 참여 대회: Google Code Jam, SCPC
 
@@ -47,18 +47,27 @@ UNIST 컴퓨터공학과에 학과제의 경우 주전공, 복수전공 및 부�
 
 ## 회원 목록
 
+### 2기 14명
+
+**f**[lyjb](https://www.acmicpc.net/user/flyjb),
+**o**[hdoyoel](https://www.acmicpc.net/user/ohdoyoel),
+**w**[ojino](https://www.acmicpc.net/user/wojino),
+**i**[amseokhyun](https://www.acmicpc.net/user/iamseokhyun)
+
+외 10명  
+
 ### 1기 29명
 
-**q**[ueued_q](https://www.acmicpc.net/user/queued_q), 
-**g**[racelee](https://www.acmicpc.net/user/gracelee), 
-**k**[ts0921](https://www.acmicpc.net/user/kts0921), 
-**j**[sy01311](https://www.acmicpc.net/user/jsy01311), 
-**f**[lame623](https://www.acmicpc.net/user/flame623), 
-**w**[bjeon2k](https://www.acmicpc.net/user/wbjeon2k), 
-**f**[irebird](https://www.acmicpc.net/user/firebird), 
-**m**[skim17](https://www.acmicpc.net/user/mskim17), 
-**r**[aonmire](https://www.acmicpc.net/user/raonmire), 
-**n**[ukec](https://www.acmicpc.net/user/nukec), 
-**b**[leaveme](https://www.acmicpc.net/user/bleaveme), 
+**q**[ueued_q](https://www.acmicpc.net/user/queued_q),
+**g**[racelee](https://www.acmicpc.net/user/gracelee),
+**k**[ts0921](https://www.acmicpc.net/user/kts0921),
+**j**[sy01311](https://www.acmicpc.net/user/jsy01311),
+**f**[lame623](https://www.acmicpc.net/user/flame623),
+**w**[bjeon2k](https://www.acmicpc.net/user/wbjeon2k),
+**f**[irebird](https://www.acmicpc.net/user/firebird),
+**m**[skim17](https://www.acmicpc.net/user/mskim17),
+**r**[aonmire](https://www.acmicpc.net/user/raonmire),
+**n**[ukec](https://www.acmicpc.net/user/nukec),
+**b**[leaveme](https://www.acmicpc.net/user/bleaveme),
 
 외 19명
