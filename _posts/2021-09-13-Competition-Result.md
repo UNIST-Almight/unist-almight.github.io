@@ -37,3 +37,15 @@ SCPC는 삼성리서치에서 주관하는 프로그래밍 경진대회입니다
 - 최종 Round3 진출: 1명
 - 최종 Round2 진출: 2명
 - 외 참여 1명
+
+## ACM-ICPC
+
+[대회 사이트](http://icpckorea.org/2021-seoul/preliminary)
+
+우리 Almight는 ACM-ICPC Seoul Regional 에서 다음과 같은 성과를 거두었습니다.  
+
+- GreenBelt (본선, 6 solve, 20th)
+- delicious goose (예선, 3 solve, 79th)
+- comet (예선, 3 solve, 81th)
+- binarysearch (예선, 2 solve, 116th)
+- waffle (예선, 1 solve, 170th)

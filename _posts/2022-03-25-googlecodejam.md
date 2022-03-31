@@ -8,8 +8,8 @@ author: wbjeon2k
 
 **Google Code Jam이 곧 열립니다!**
 
->🗓️ Registration : (UTC) Mar 1 2022, 19:00 (UTC) ~ Apr 3 2022, 02:00  
->🗓️ Qualification Round (UTC) Apr 1 2022, 23:00 ~ Apr 3 2022, 02:00 (27 hrs)  
+>🗓️ Registration : 3월 1일 ~ 대회 종료 시까지  
+>🗓️ Qualification Round 4월 2일, 08:00 ~ 4월 3일, 11:00 KST (27 hrs)  
 >🏠 <https://codingcompetitions.withgoogle.com/codejam>](<https://codingcompetitions.withgoogle.com/codejam>)  
 
 ### Google Code Jam은 어떤 대회인가요?  
