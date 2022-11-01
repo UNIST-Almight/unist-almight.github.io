@@ -1,5 +1,5 @@
 ---
-tags: contest
+tags: ps
 date: 2022-03-25 12:00 +0900
 title: "solved.ac에 대한 (짧은) 소개!"
 categories: almight
